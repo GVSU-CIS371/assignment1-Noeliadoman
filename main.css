@@ -23,5 +23,12 @@ main {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
 }
-  
+.store-item {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.store-item img {
+  max-width: 100%;
+} 
 }
