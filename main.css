@@ -4,7 +4,7 @@ html {
 
   margin: 0px;
   padding: 0px;
-
+}
 #app {
   display: grid;
   grid-template-rows: auto auto auto; /* Header / Main / Footer */
@@ -26,7 +26,6 @@ header nav ul {
   gap: 1rem;
 }
 
-}
 
 main {
   display: grid;
@@ -34,12 +33,14 @@ main {
   gap: 1rem;
 }
 .store-item {
-  display: grid;
+  display: flex;
   flex-direction: column;
   text-align: left;
 }
+
 .store-item span {
   display: inline-block;
+  margin-right: 1rem;
 }
 .store-item img {
   max-width: 100%;
