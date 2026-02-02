@@ -68,7 +68,7 @@ main {
 .store-item span:nth-last-of-type(3),
 .store-item span:nth-last-of-type(2),
 .store-item span:nth-last-of-type(1) {
-  rid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 footer {
   text-align: center;
