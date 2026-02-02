@@ -56,7 +56,7 @@ main {
   max-width: 100%;
   height: 180px;
   object-fit: cover;
-  margin-bottom: 0.5reml
+  margin-bottom: 0.5rem;
 } 
 .store-item span{
   font-weight: bold;
