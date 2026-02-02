@@ -68,7 +68,7 @@ main {
 .store-item span:nth-last-of-type(3),
 .store-item span:nth-last-of-type(2),
 .store-item span:nth-last-of-type(1) {
-  display: inline-block;
+  display: flex;
 }
 footer {
   text-align: center;
