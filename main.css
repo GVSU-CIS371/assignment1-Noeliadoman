@@ -52,7 +52,7 @@ main {
   min-height: 320px;
 }
 
-.store-item span:nth-last-of-type(-n+3) {
+.store-item span {
   display: inline;
   margin-right: 0.5rem;  
 }
