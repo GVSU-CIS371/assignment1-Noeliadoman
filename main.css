@@ -44,8 +44,6 @@ main {
   align-content: start;
 }
 .store-item {
-  display: flex;
-  flex-direction: column;
   text-align: left;
   border: 2px solid #1e5bb8;
   padding: 1rem;
